@@ -53,7 +53,8 @@ Each column was analyzed for its distribution, correlations, and impact on the t
 - Trained and evaluated the following models:  
   - Logistic Regression  
   - Decision Tree  
-  - Random Forest  
+  - Random Forest
+  - SVM 
   - K-Nearest Neighbors (KNN)  
   - XGBoost  
 
